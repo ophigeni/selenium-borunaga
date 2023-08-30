@@ -18,7 +18,7 @@ sudo apt-get update
 
 sudo apt-get install git -y
 
-git clone https://github.com/ophigeni/selenium-ophigeni
+git clone https://github.com/ophigeni/selenium-borunaga
 
 
 # install-selenium-and-ect
